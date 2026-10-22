@@ -2,8 +2,8 @@
 
 ![Banner ilustrado de João Erick programando, com apresentação e tecnologias em um ambiente azul neon](banner-joao-erick.png)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-erick-santos-9537252ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Erick)
-![Brasil](https://img.shields.io/badge/Brasil-0A66C2?style=for-the-badge)
 
 </div>
 
@@ -77,7 +77,8 @@ Acredito na prática como parte fundamental do aprendizado. Estou aprimorando mi
 
 ### 🤝 Vamos nos conectar?
 
-[![Ver perfil no GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Erick)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-erick-santos-9537252ba/)
+[![GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Erick)
 
 *Disciplina hoje, oportunidades amanhã.*
 
