@@ -1,11 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Sou João Erick
-
-### 🎓 Estudante de Ciência da Computação | 💻 Em busca de estágio em TI
-
-Tenho interesse em **desenvolvimento de software, banco de dados e resolução de problemas com tecnologia**.  
-Aqui compartilho meus projetos acadêmicos, experimentos e minha evolução na programação.
+![Banner ilustrado de João Erick programando, com apresentação e tecnologias em um ambiente azul neon](banner-joao-erick.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Erick)
 ![Brasil](https://img.shields.io/badge/Brasil-0A66C2?style=for-the-badge)
